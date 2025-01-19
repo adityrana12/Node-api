@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "age": 29,
+      "location": "New York, NY",
+      "isActive": true,
+      "signupDate": "2023-05-10"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "age": 34,
+      "location": "Los Angeles, CA",
+      "isActive": false,
+      "signupDate": "2022-11-03"
+    },
+    {
+      "id": 3,
+      "name": "Catherine Lee",
+      "email": "catherine.lee@example.com",
+      "age": 27,
+      "location": "Chicago, IL",
+      "isActive": true,
+      "signupDate": "2023-01-15"
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "email": "david.kim@example.com",
+      "age": 41,
+      "location": "Seattle, WA",
+      "isActive": true,
+      "signupDate": "2021-07-22"
+    },
+    {
+      "id": 5,
+      "name": "Emma Brown",
+      "email": "emma.brown@example.com",
+      "age": 23,
+      "location": "Austin, TX",
+      "isActive": false,
+      "signupDate": "2023-09-18"
+    },
+    {
+      "id": 6,
+      "name": "Frank Garcia",
+      "email": "frank.garcia@example.com",
+      "age": 37,
+      "location": "Miami, FL",
+      "isActive": true,
+      "signupDate": "2020-12-05"
+    },
+    {
+      "id": 7,
+      "name": "Grace Miller",
+      "email": "grace.miller@example.com",
+      "age": 30,
+      "location": "Denver, CO",
+      "isActive": true,
+      "signupDate": "2023-06-20"
+    },
+    {
+      "id": 8,
+      "name": "Henry Wilson",
+      "email": "henry.wilson@example.com",
+      "age": 45,
+      "location": "Boston, MA",
+      "isActive": false,
+      "signupDate": "2019-04-12"
+    },
+    {
+      "id": 9,
+      "name": "Isabella Davis",
+      "email": "isabella.davis@example.com",
+      "age": 26,
+      "location": "San Francisco, CA",
+      "isActive": true,
+      "signupDate": "2022-08-30"
+    },
+    {
+      "id": 10,
+      "name": "Jack Martinez",
+      "email": "jack.martinez@example.com",
+      "age": 33,
+      "location": "Phoenix, AZ",
+      "isActive": true,
+      "signupDate": "2023-02-14"
+    }
+  ]
+  
