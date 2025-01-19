@@ -8,7 +8,10 @@ app.get("/users",(req,res)=>{
 app.get("/students",(req,res)=>{
     return res.json(users)
 })
-app.get("/teachers",(req,res)=>{
+app.get("/teachers",
+    (req,res)=>{
+        return res.json(users)
+    })
 app.get("/faculty",(req,res)=>{
     return res.json(users)
 })
