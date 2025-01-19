@@ -15,4 +15,7 @@ app.get("/teachers",
 app.get("/faculty",(req,res)=>{
     return res.json(users)
 })
+app.get("/watches",(req,res)=>{
+    return res.json(users)
+})
 app.listen(port,()=>console.log("server is running"))
