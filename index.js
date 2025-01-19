@@ -8,4 +8,7 @@ app.get("/users",(req,res)=>{
 app.get("/students",(req,res)=>{
     return res.json(users)
 })
+app.get("/teachers",(req,res)=>{
+    return res.json(users)
+})
 app.listen(port,()=>console.log("server is running"))
